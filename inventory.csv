@@ -1,0 +1,98 @@
+name,stock,need,unit,location,category
+ground beef,-2,1,lb,costco,meat
+chicken breast,0,1,lb,costco,meat
+bacon,-3,1,lb,costco,meat
+chicken nuggets,0,1,bag,costco,meat
+sausages,0,1,lb,costco,meat
+chicken thighs,0,1,lb,costco,meat
+ground pork,0,1,lb,costco,meat
+eggs,0,1,count,costco,meat
+pork shoulder,0,1,lb,costco,meat
+green beans,0,1,lb,berkeley bowl,vegetable
+bok choy,0,1,lb,berkeley bowl,vegetable
+green Onions,0,1,lb,berkeley bowl,vegetable
+Napa Cabbage,0,1,lb,berkeley bowl,vegetable
+Broccoli,0,1,lb,berkeley bowl,vegetable
+Yellow onions,0,1,count,berkeley bowl,vegetable
+Tomatoes,0,1,count,berkeley bowl,vegetable
+Cucumber,0,1,count,berkeley bowl,vegetable
+Carrots,0,1,count,berkeley bowl,vegetable
+Mushrooms,0,1,count,berkeley bowl,vegetable
+green bell pepper,0,1,count,berkeley bowl,vegetable
+red bell pepper,0,1,count,berkeley bowl,vegetable
+yellow bell pepper,0,1,count,berkeley bowl,vegetable
+orange bell pepper,0,1,count,berkeley bowl,vegetable
+garlic,0,1,clove,berkeley bowl,vegetable
+red onions,0,1,count,berkeley bowl,vegetable
+potatoes,0,1,count,berkeley bowl,vegetable
+cilantro,0,1,tsp,berkeley bowl,vegetable
+lettuce,0,1,lb,berkeley bowl,vegetable
+basil,0,1,tsp,berkeley bowl,vegetable
+apples,0,1,count,berkeley bowl,fruit
+bananas,0,1,count,berkeley bowl,fruit
+oranges,0,1,count,berkeley bowl,fruit
+peaches,0,1,count,berkeley bowl,fruit
+pears,0,1,count,berkeley bowl,fruit
+clementines,0,1,count,berkeley bowl,fruit
+plum,0,1,count,berkeley bowl,fruit
+lime,0,1,count,berkeley bowl,fruit
+lemon,0,1,count,berkeley bowl,fruit
+grapes,0,1,count,berkeley bowl,fruit
+watermelon,0,1,count,berkeley bowl,fruit
+cantaloupe,0,1,count,berkeley bowl,fruit
+strawberry,0,1,count,berkeley bowl,fruit
+avocado,0,1,count,berkeley bowl,fruit
+mango,0,1,count,berkeley bowl,fruit
+flour,0,1,cup,costco,pantry
+baking soda,0,1,tsp,costco,pantry
+baking powder,0,1,tsp,costco,pantry
+corn starch,0,1,tsp,costco,pantry
+white sugar,0,1,tsp,costco,pantry
+brown sugar,0,1,tsp,costco,pantry
+powdered sugar,0,1,tsp,costco,pantry
+salt,0,1,tsp,costco,pantry
+black pepper,0,1,tsp,costco,pantry
+garlic powder,0,1,tsp,costco,pantry
+taco seasoning,0,1,tsp,costco,pantry
+garlic salt,0,1,tsp,costco,pantry
+white pepper,0,1,tsp,ranch 99,pantry
+dried chili pepper,0,1,tsp,safeway,pantry
+dried oregano,0,1,tsp,safeway,pantry
+dried thyme,0,1,tsp,safeway,pantry
+dried rosemary,0,1,tsp,safeway,pantry
+nutmeg,0,1,tsp,safeway,pantry
+cinnamon,0,1,tsp,safeway,pantry
+vanilla extract,0,1,tsp,safeway,pantry
+chocolate chips,0,1,tsp,costco,pantry
+bread crumbs,0,1,tsp,safeway,pantry
+ketchup,0,1,cup,costco,pantry
+mustard,0,1,cup,costco,pantry
+bbq sauce,0,1,cup,costco,pantry
+relish,0,1,cup,costco,pantry
+sriracha,0,1,cup,safeway,pantry
+olive oil,0,1,cup,costco,pantry
+vegetable oil,0,1,cup,costco,pantry
+canola oil,0,1,cup,costco,pantry
+seasame oil,0,1,cup,costco,pantry
+coconut oil,0,1,cup,costco,pantry
+soy sauce,0,1,cup,costco,pantry
+white vinegar,0,1,cup,costco,pantry
+rice vinegar,0,1,cup,safeway,pantry
+black vinegar,0,1,cup,ranch 99,pantry
+apple cider vinegar,0,1,cup,safeway,pantry
+honey,0,1,cup,costco,pantry
+oatmeal,0,1,box,costco,pantry
+cereal,0,1,box,costco,pantry
+canned green beans,0,1,ounce,costco,pantry
+canned coconut milk,0,1,ounce,costco,pantry
+canned black beans,0,1,ounce,costco,pantry
+canned corn,0,1,ounce,costco,pantry
+marinara sauce,0,1,cup,costco,pantry
+alfredo sauce,0,1,cup,costco,pantry
+spaghetti noodles,0,1,lb,costco,pantry
+chicken broth,0,1,ounce,costco,pantry
+bagels,0,1,bag,costco,pantry
+croissant,0,1,count,costco,pantry
+muffins,0,1,count,costco,pantry
+bread,0,1,loaf,costco,pantry
+pasta noodles,0,1,lb,costco,pantry
