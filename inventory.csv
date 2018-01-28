@@ -1,7 +1,7 @@
 name,stock,need,unit,location,category
-ground beef,-2,1,lb,costco,meat
+ground beef,-6,1,lb,costco,meat
 chicken breast,0,1,lb,costco,meat
-bacon,-3,1,lb,costco,meat
+bacon,-9,1,lb,costco,meat
 chicken nuggets,0,1,bag,costco,meat
 sausages,0,1,lb,costco,meat
 chicken thighs,0,1,lb,costco,meat
